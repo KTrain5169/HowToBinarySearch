@@ -14,7 +14,6 @@ if needhelp.lower() == "yes":
     print('Ok, set your issue to ', issue, '".')
     print("So let's start!")
     
-    
 elif needhelp.lower() == "no":
     print("Alright, I'll leave you to it.")
     print("Once you're done, type EXIT to close this window.")
