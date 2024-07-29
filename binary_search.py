@@ -38,7 +38,8 @@ if needhelp.lower() == "yes":
                     break
                 elif problem.lower() == "no":
                     break
-        elif 
+        elif problem.lower() == "no":
+            
 
     
 elif needhelp.lower() == "no":
